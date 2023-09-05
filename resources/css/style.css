@@ -20,8 +20,8 @@ nav {
     justify-content: space-between;
     padding: 5px 20px;
     height: 12vh;
-    background-color: bisque;
-    box-shadow: 0 0 10px black;
+    background-color: rgb(4, 4, 4);
+    box-shadow: 0 0 10px rgb(248, 245, 245);
 }
 
 .heading {
