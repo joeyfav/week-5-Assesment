@@ -129,4 +129,7 @@ footer {
 button:hover {
     background-color: rgb(204, 198, 250);
 }
-
+#maq {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: #ffffff;
+}
